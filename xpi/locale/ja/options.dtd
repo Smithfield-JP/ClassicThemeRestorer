@@ -31,7 +31,7 @@
 <!ENTITY Ctr_tabcolors_t	"タブ色 &amp; テキスト">
 
 <!ENTITY Ctr_tabs			"タブ">
-<!ENTITY Ctr_tabs0			"&brandShortName; default (Curved tabs)">
+<!ENTITY Ctr_tabs0			"&brandShortName;  既定(曲線的タブ)">
 <!ENTITY Ctr_tabs1			"四角いタブ (クラシック)">
 <!ENTITY Ctr_tabs1m			"四角いタブ (Australis化)">
 <!ENTITY Ctr_tabs2			"丸いタブ (別バージョン)">
@@ -42,22 +42,22 @@
 <!ENTITY Ctr_tabsontop1		"タブを上にする --- [tabsontop=true] attribute">
 <!ENTITY Ctr_tabsontop2		"タブを下にする (v1) --- [tabsontop=false] attribute">
 <!ENTITY Ctr_tabsontop3		"タブを下にする (v2) --- [tabsontop=false] attribute">
-<!ENTITY Ctr_tabsontopW1	"v2 is for some add-ons and complete themes only!">
+<!ENTITY Ctr_tabsontopW1	"v2 の利用はいくつかのアドオンとテーマでのみ利用可能!">
 <!ENTITY Ctr_tabsontopI1	"以下に属性[tabsontop=true/false]を加える">
 <!ENTITY Ctr_tabsintitlebar	"&brandShortName; タイトルバー (about:config設定)">
 <!ENTITY Ctr_tabwidthdef	"(デフォルト)">
 <!ENTITY Ctr_tabwidthcla	"(クラシック)">
 <!ENTITY Ctr_tabminheight	"高さ:">
-<!ENTITY Ctr_tabheightinfo	"Low values will cause glitches in maximized mode!">
+<!ENTITY Ctr_tabheightinfo	"値を低くすると最大化した際に不具合が出る可能性があります!">
 <!ENTITY Ctr_tabmaxwidth	"最大幅:">
 <!ENTITY Ctr_tabminwidth	"最小幅:">
 <!ENTITY Ctr_tabwidthinfo	"タブの最小幅と最大幅は Tab Mix Plus で制御されます。">
 <!ENTITY Ctr_tabwidthinfo2	"タブの最小幅と最大幅は Tab Utilities で制御されます。">
-<!ENTITY Ctr_tabwidthinfo3	"Values below 48px will cause glitches in most cases!">
-<!ENTITY Ctr_square_edges	"Squared top corners">
-<!ENTITY Ctr_tttitlebar		"Tab title in &brandShortName; titlebar">
-<!ENTITY Ctr_tabinsertion	"Insert related tab after current tab (about:config設定)">
-<!ENTITY Ctr_emptytfavico	"Show favicon (if a site does not offer one)">
+<!ENTITY Ctr_tabwidthinfo3	"48px 未満に設定すると多くの場合不具合の原因となります!">
+<!ENTITY Ctr_square_edges	"上部の角を四角くする">
+<!ENTITY Ctr_tttitlebar		"タブタイトルを &brandShortName; タイトルバーに表示">
+<!ENTITY Ctr_tabinsertion	"新規タブをすぐ右側で開く (about:config設定)">
+<!ENTITY Ctr_emptytfavico	"ファビコンを表示 (サイト側で用意していない場合)">
 <!ENTITY Ctr_emptytfavico_n	"None">
 <!ENTITY Ctr_emptytfavico_g	"Generic">
 <!ENTITY Ctr_noemptypticon	"ピン止めタブから空ファビコンを取り除く">
@@ -69,9 +69,9 @@
 <!ENTITY Ctr_closetab_4		"ツールバーの最初に表示">
 <!ENTITY Ctr_closetab_5		"全てのタブ (強制)">
 <!ENTITY Ctr_closetab_hfot	"可視タブに対して隠す">
-<!ENTITY Ctr_closei_def		"Default icons">
+<!ENTITY Ctr_closei_def		"既定のアイコ">
 <!ENTITY Ctr_closeonleft	"別の位置に表示">
-<!ENTITY Ctr_closetabbig	"Bigger icon (20x20 px)">
+<!ENTITY Ctr_closetabbig	"大型アイコン (20x20 px)">
 <!ENTITY Ctr_close_wwltab	"最後の可視タブをもつウィンドウを閉じる (about:config設定)">
 
 <!ENTITY Ctr_hctpinfotab	"Some tab variations are not compatible to 'Hide Caption Titlebar Plus' add-on.">
